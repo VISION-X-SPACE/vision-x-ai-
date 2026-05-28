@@ -1,0 +1,6 @@
+{
+  "name": "ABO GABAL",
+  "description": "An ultra-intuitive and powerful AI companion that combines multi-layered deep reasoning (DeepThink) with real-time Google Search grounding to deliver highly accurate, robust, and fact-grounded human-like answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
